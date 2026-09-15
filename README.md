@@ -1,6 +1,6 @@
 # Employee Turnover Prediction
 
-A Machine Learning project focused on predicting employee turnover using classification algorithms. This project analyzes employee-related factors and compares different machine learning models to identify the most effective approach for predicting whether an employee is likely to leave a company.
+A Machine Learning project focused on predicting employee turnover using classification algorithms. This project analyzes employee-related factors and compares different machine learning models to identify the most effective approach for predicting whether an employee is likely to leave a company
 
 ---
 
