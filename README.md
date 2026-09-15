@@ -29,7 +29,7 @@ Some of the most important features include:
 - Training Hours
 - Department
 - Job Role
-- Attrition Status (Target Variable)
+- Attrition Status 
 
 ---
 
